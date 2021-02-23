@@ -15,6 +15,8 @@ public class App {
 		
 		// Format query for preventing encoding problems
 		String query = String.format("s=%s", URLEncoder.encode(s, charset));
+		
+		// Test for git 
 
 	}
 
